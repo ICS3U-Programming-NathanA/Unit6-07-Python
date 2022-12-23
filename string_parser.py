@@ -2,7 +2,7 @@
 
 # Created by: Nathan Araujo
 # Date: Dec.15, 2022
-# This program calculates the average of marks
+# This program splits sentences into separate words
 
 
 def parse_sentence(sentence):
